@@ -44,4 +44,10 @@ public class Order {
 	public void setCost(double cost) {
 		this.cost = cost;
 	}
+
+	/*
+	 * @Override public String toString() { return "Order [id=" + id + ", itemName="
+	 * + itemName + ", itemQuantity=" + itemQuantity + ", cost=" + cost + "]"; }
+	 */
+	
 }

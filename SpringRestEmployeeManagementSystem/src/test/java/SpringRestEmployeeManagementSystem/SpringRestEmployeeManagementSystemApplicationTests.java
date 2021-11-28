@@ -1,10 +1,10 @@
-package com.employee.management;
+package SpringRestEmployeeManagementSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class SpringRestEmployeeManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
